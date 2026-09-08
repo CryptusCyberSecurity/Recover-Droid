@@ -1,0 +1,14 @@
+# Compiler output and dependencies
+/target/
+
+# Built binary executables
+/recover-cli.exe
+*.exe
+
+# Local session cache and reports
+/recovery_report.json
+/recovery_session.json
+
+# IDE config files
+.idea/
+.vscode/

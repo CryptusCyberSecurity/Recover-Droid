@@ -1,0 +1,42 @@
+[package]
+name = "recover-cli"
+version = "0.1.0"
+edition = "2024"
+authors = ["Antigravity"]
+description = "A professional-grade, modular CLI tool to recover deleted files from storage devices."
+
+[[bin]]
+name = "recover-droid"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1.0"
+thiserror = "1.0"
+byteorder = "1.5"
+clap = { version = "4.4", features = ["derive"] }
+indicatif = { version = "0.17", features = ["rayon"] }
+rayon = "1.8"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+log = "0.4"
+env_logger = "0.11"
+memmap2 = "0.9"
+ratatui = "0.26"
+crossterm = "0.27"
+sha2 = "0.10"
+sha1 = "0.10"
+md-5 = "0.10"
+
+[target.'cfg(windows)'.dependencies]
+windows-sys = { version = "0.52", features = [
+    "Win32_Storage_FileSystem",
+    "Win32_System_IO",
+    "Win32_Foundation",
+    "Win32_System_Ioctl",
+] }
+
+[dev-dependencies]
+tempfile = "3.8"
+
+[build-dependencies]
+embed-resource = "2.4"

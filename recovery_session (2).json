@@ -1,0 +1,414 @@
+{
+  "device": "\\\\.\\D:",
+  "filesystem": "exFAT",
+  "files": [
+    {
+      "id": 1,
+      "name": "PhantomPhish/phantomphish.py",
+      "size": 11522,
+      "start_cluster": 9,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 2,
+      "name": "PhantomPhish/phantomphish.sh",
+      "size": 2415,
+      "start_cluster": 10,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 3,
+      "name": "PhantomPhish/requirements.txt",
+      "size": 78,
+      "start_cluster": 11,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 4,
+      "name": "PhantomPhish/modules/banner.py",
+      "size": 1065,
+      "start_cluster": 15,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 5,
+      "name": "PhantomPhish/modules/geoip.py",
+      "size": 1805,
+      "start_cluster": 16,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 6,
+      "name": "PhantomPhish/modules/logger.py",
+      "size": 2553,
+      "start_cluster": 17,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 7,
+      "name": "PhantomPhish/modules/masker.py",
+      "size": 1456,
+      "start_cluster": 18,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 8,
+      "name": "PhantomPhish/modules/server.py",
+      "size": 2023,
+      "start_cluster": 19,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 9,
+      "name": "PhantomPhish/modules/tunnel.py",
+      "size": 8432,
+      "start_cluster": 20,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 10,
+      "name": "PhantomPhish/modules/utils.py",
+      "size": 886,
+      "start_cluster": 21,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 11,
+      "name": "PhantomPhish/modules/__init__.py",
+      "size": 24,
+      "start_cluster": 22,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 12,
+      "name": "PhantomPhish/modules/__pycache__/banner.cpython-314.pyc",
+      "size": 1910,
+      "start_cluster": 24,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 13,
+      "name": "PhantomPhish/modules/__pycache__/geoip.cpython-314.pyc",
+      "size": 3267,
+      "start_cluster": 25,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 14,
+      "name": "PhantomPhish/modules/__pycache__/logger.cpython-314.pyc",
+      "size": 5162,
+      "start_cluster": 26,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 15,
+      "name": "PhantomPhish/modules/__pycache__/masker.cpython-314.pyc",
+      "size": 2898,
+      "start_cluster": 27,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 16,
+      "name": "PhantomPhish/modules/__pycache__/server.cpython-314.pyc",
+      "size": 3710,
+      "start_cluster": 28,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 17,
+      "name": "PhantomPhish/modules/__pycache__/tunnel.cpython-314.pyc",
+      "size": 15358,
+      "start_cluster": 29,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 18,
+      "name": "PhantomPhish/modules/__pycache__/utils.cpython-314.pyc",
+      "size": 2512,
+      "start_cluster": 30,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 19,
+      "name": "PhantomPhish/sites/post.php",
+      "size": 2775,
+      "start_cluster": 32,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 20,
+      "name": "PhantomPhish/sites/adobe/index.html",
+      "size": 1572,
+      "start_cluster": 34,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 21,
+      "name": "PhantomPhish/sites/adobe/post.php",
+      "size": 2775,
+      "start_cluster": 35,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 22,
+      "name": "PhantomPhish/sites/amazon/index.html",
+      "size": 1569,
+      "start_cluster": 37,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 23,
+      "name": "PhantomPhish/sites/amazon/post.php",
+      "size": 2775,
+      "start_cluster": 38,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 24,
+      "name": "PhantomPhish/sites/apple/index.html",
+      "size": 1659,
+      "start_cluster": 40,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 25,
+      "name": "PhantomPhish/sites/apple/post.php",
+      "size": 2775,
+      "start_cluster": 41,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 26,
+      "name": "PhantomPhish/sites/custom/post.php",
+      "size": 2775,
+      "start_cluster": 43,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 27,
+      "name": "PhantomPhish/sites/facebook/index.html",
+      "size": 1641,
+      "start_cluster": 45,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 28,
+      "name": "PhantomPhish/sites/facebook/post.php",
+      "size": 2775,
+      "start_cluster": 46,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 29,
+      "name": "PhantomPhish/sites/github/index.html",
+      "size": 1657,
+      "start_cluster": 48,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 30,
+      "name": "PhantomPhish/sites/github/post.php",
+      "size": 2775,
+      "start_cluster": 49,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 31,
+      "name": "PhantomPhish/sites/login/index.html",
+      "size": 1582,
+      "start_cluster": 51,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 32,
+      "name": "PhantomPhish/sites/login/post.php",
+      "size": 2775,
+      "start_cluster": 52,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 33,
+      "name": "PhantomPhish/sites/instagram/index.html",
+      "size": 1650,
+      "start_cluster": 54,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 34,
+      "name": "PhantomPhish/sites/instagram/post.php",
+      "size": 2775,
+      "start_cluster": 55,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 35,
+      "name": "PhantomPhish/sites/linkedin/index.html",
+      "size": 1650,
+      "start_cluster": 57,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 36,
+      "name": "PhantomPhish/sites/linkedin/post.php",
+      "size": 2775,
+      "start_cluster": 58,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 37,
+      "name": "PhantomPhish/sites/microsoft/index.html",
+      "size": 1573,
+      "start_cluster": 60,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 38,
+      "name": "PhantomPhish/sites/microsoft/post.php",
+      "size": 2775,
+      "start_cluster": 61,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 39,
+      "name": "PhantomPhish/sites/netflix/index.html",
+      "size": 1643,
+      "start_cluster": 63,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 40,
+      "name": "PhantomPhish/sites/netflix/post.php",
+      "size": 2775,
+      "start_cluster": 64,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 41,
+      "name": "PhantomPhish/sites/otp/facebook_otp/index.html",
+      "size": 1635,
+      "start_cluster": 67,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 42,
+      "name": "PhantomPhish/sites/otp/facebook_otp/post.php",
+      "size": 2775,
+      "start_cluster": 68,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 43,
+      "name": "PhantomPhish/sites/otp/instagram_otp/index.html",
+      "size": 1489,
+      "start_cluster": 70,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 44,
+      "name": "PhantomPhish/sites/otp/instagram_otp/post.php",
+      "size": 2775,
+      "start_cluster": 71,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 45,
+      "name": "PhantomPhish/sites/snapchat/index.html",
+      "size": 1636,
+      "start_cluster": 73,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 46,
+      "name": "PhantomPhish/sites/snapchat/post.php",
+      "size": 2775,
+      "start_cluster": 74,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 47,
+      "name": "PhantomPhish/sites/spotify/index.html",
+      "size": 1647,
+      "start_cluster": 76,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 48,
+      "name": "PhantomPhish/sites/spotify/post.php",
+      "size": 2775,
+      "start_cluster": 77,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 49,
+      "name": "PhantomPhish/sites/twitter/index.html",
+      "size": 1642,
+      "start_cluster": 79,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 50,
+      "name": "PhantomPhish/sites/twitter/post.php",
+      "size": 2775,
+      "start_cluster": 80,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    },
+    {
+      "id": 51,
+      "name": "PhantomPhish/__pycache__/phantomphish.cpython-314.pyc",
+      "size": 18343,
+      "start_cluster": 83,
+      "status": "Recoverable",
+      "filesystem": "exFAT"
+    }
+  ]
+}

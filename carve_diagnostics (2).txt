@@ -1,0 +1,6 @@
+Detected Filesystem: None
+Deleted Files Map (Total: 0):
+
+Carved Files (Total: 2):
+  Offset: 0x400 (1024) -> Ext: png
+  Offset: 0x1400 (5120) -> Ext: jpg

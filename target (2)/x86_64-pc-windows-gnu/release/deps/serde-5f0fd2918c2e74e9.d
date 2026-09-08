@@ -1,0 +1,14 @@
+/home/sandipan/Downloads/Recover/target/x86_64-pc-windows-gnu/release/deps/serde-5f0fd2918c2e74e9.d: /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/sandipan/Downloads/Recover/target/x86_64-pc-windows-gnu/release/build/serde-ea3c50600544ab6d/out/private.rs
+
+/home/sandipan/Downloads/Recover/target/x86_64-pc-windows-gnu/release/deps/libserde-5f0fd2918c2e74e9.rlib: /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/sandipan/Downloads/Recover/target/x86_64-pc-windows-gnu/release/build/serde-ea3c50600544ab6d/out/private.rs
+
+/home/sandipan/Downloads/Recover/target/x86_64-pc-windows-gnu/release/deps/libserde-5f0fd2918c2e74e9.rmeta: /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/sandipan/Downloads/Recover/target/x86_64-pc-windows-gnu/release/build/serde-ea3c50600544ab6d/out/private.rs
+
+/home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/sandipan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/sandipan/Downloads/Recover/target/x86_64-pc-windows-gnu/release/build/serde-ea3c50600544ab6d/out/private.rs:
+
+# env-dep:OUT_DIR=/home/sandipan/Downloads/Recover/target/x86_64-pc-windows-gnu/release/build/serde-ea3c50600544ab6d/out

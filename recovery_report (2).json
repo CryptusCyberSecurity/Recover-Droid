@@ -1,0 +1,9 @@
+{
+  "device": "\\\\.\\D:",
+  "filesystem": "Raw Signature Carving",
+  "deleted_found": 98,
+  "recoverable": 98,
+  "partial": 0,
+  "overwritten": 0,
+  "elapsed_seconds": 320
+}

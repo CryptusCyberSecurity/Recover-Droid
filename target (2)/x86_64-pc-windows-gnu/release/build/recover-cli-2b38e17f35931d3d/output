@@ -1,0 +1,1 @@
+cargo:rustc-link-arg-bins=/home/sandipan/Downloads/Recover/target/x86_64-pc-windows-gnu/release/build/recover-cli-2b38e17f35931d3d/out/app.lib
